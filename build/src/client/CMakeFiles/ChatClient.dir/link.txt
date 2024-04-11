@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/ChatClient.dir/main.cpp.o CMakeFiles/ChatClient.dir/user.cpp.o CMakeFiles/ChatClient.dir/group.cpp.o CMakeFiles/ChatClient.dir/groupuser.cpp.o -o /home/gaoyun/zxj_chatserver/bin/ChatClient   -L/usr/lib64/mysql  -Wl,-rpath,/usr/lib64/mysql -lpthread 

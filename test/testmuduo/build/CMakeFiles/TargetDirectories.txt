@@ -1,0 +1,3 @@
+/home/gaoyun/zxj_chatserver/testmuduo/build/CMakeFiles/testserver.dir
+/home/gaoyun/zxj_chatserver/testmuduo/build/CMakeFiles/edit_cache.dir
+/home/gaoyun/zxj_chatserver/testmuduo/build/CMakeFiles/rebuild_cache.dir
