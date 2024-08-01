@@ -1,0 +1,14 @@
+13-37-47 [ERROR] =>: first msg haha
+13-37-47 [ERROR] =>: /home/zhao/tmpdir/rprc/example/callee/userservice.cc main 41
+13-45-37 [ERROR] =>: first msg haha
+13-45-37 [ERROR] =>: /home/zhao/tmpdir/rprc/example/callee/userservice.cc main 41
+13-46-43 [ERROR] =>: first msg haha
+13-46-43 [ERROR] =>: /home/zhao/tmpdir/rprc/example/callee/userservice.cc main 41
+13-47-59 [ERROR] =>: first msg haha
+13-47-59 [ERROR] =>: /home/zhao/tmpdir/rprc/example/callee/userservice.cc main 41
+13-49- 8 [ERROR] =>: first msg haha
+13-49- 8 [ERROR] =>: /home/zhao/tmpdir/rprc/example/callee/userservice.cc main 41
+14- 2- 1 [ERROR] =>: first msg haha
+14- 2- 1 [ERROR] =>: /home/zhao/tmpdir/rprc/example/callee/userservice.cc main 41
+14-11-49 [ERROR] =>: first msg haha
+14-11-49 [ERROR] =>: /home/zhao/tmpdir/rprc/example/callee/userservice.cc main 41

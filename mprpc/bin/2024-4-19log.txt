@@ -1,0 +1,4 @@
+22-49-25 : first msg haha22-49-25 : /home/zhao/tmpdir/rprc/example/callee/userservice.cc main 4122-57-12 [INFO] =>: first msg haha
+22-57-12 [INFO] =>: /home/zhao/tmpdir/rprc/example/callee/userservice.cc main 41
+22-57-12 [INFO] =>: UserServiceRpc
+22-57-12 [INFO] =>: LoginService

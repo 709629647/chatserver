@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/zhao/tmpdir/mprpc/build/src",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/mprpc/src/include -I/home/zhao/tmpdir/mprpc/example  -g -g -o CMakeFiles/mprpc.dir/MprpcApplication.cc.o -c /home/zhao/tmpdir/mprpc/src/MprpcApplication.cc",
+  "file": "/home/zhao/tmpdir/mprpc/src/MprpcApplication.cc"
+},
+{
+  "directory": "/home/zhao/tmpdir/mprpc/build/src",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/mprpc/src/include -I/home/zhao/tmpdir/mprpc/example  -g -g -o CMakeFiles/mprpc.dir/MprpcChannel.cc.o -c /home/zhao/tmpdir/mprpc/src/MprpcChannel.cc",
+  "file": "/home/zhao/tmpdir/mprpc/src/MprpcChannel.cc"
+},
+{
+  "directory": "/home/zhao/tmpdir/mprpc/build/src",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/mprpc/src/include -I/home/zhao/tmpdir/mprpc/example  -g -g -o CMakeFiles/mprpc.dir/MprpcConfig.cc.o -c /home/zhao/tmpdir/mprpc/src/MprpcConfig.cc",
+  "file": "/home/zhao/tmpdir/mprpc/src/MprpcConfig.cc"
+},
+{
+  "directory": "/home/zhao/tmpdir/mprpc/build/src",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/mprpc/src/include -I/home/zhao/tmpdir/mprpc/example  -g -g -o CMakeFiles/mprpc.dir/MprpcController.cc.o -c /home/zhao/tmpdir/mprpc/src/MprpcController.cc",
+  "file": "/home/zhao/tmpdir/mprpc/src/MprpcController.cc"
+},
+{
+  "directory": "/home/zhao/tmpdir/mprpc/build/src",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/mprpc/src/include -I/home/zhao/tmpdir/mprpc/example  -g -g -o CMakeFiles/mprpc.dir/MprpcProvider.cc.o -c /home/zhao/tmpdir/mprpc/src/MprpcProvider.cc",
+  "file": "/home/zhao/tmpdir/mprpc/src/MprpcProvider.cc"
+},
+{
+  "directory": "/home/zhao/tmpdir/mprpc/build/src",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/mprpc/src/include -I/home/zhao/tmpdir/mprpc/example  -g -g -o CMakeFiles/mprpc.dir/logger.cc.o -c /home/zhao/tmpdir/mprpc/src/logger.cc",
+  "file": "/home/zhao/tmpdir/mprpc/src/logger.cc"
+},
+{
+  "directory": "/home/zhao/tmpdir/mprpc/build/src",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/mprpc/src/include -I/home/zhao/tmpdir/mprpc/example  -g -g -o CMakeFiles/mprpc.dir/mprpc.pb.cc.o -c /home/zhao/tmpdir/mprpc/src/mprpc.pb.cc",
+  "file": "/home/zhao/tmpdir/mprpc/src/mprpc.pb.cc"
+},
+{
+  "directory": "/home/zhao/tmpdir/mprpc/build/src",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/mprpc/src/include -I/home/zhao/tmpdir/mprpc/example  -g -g -o CMakeFiles/mprpc.dir/zookeeperutils.cc.o -c /home/zhao/tmpdir/mprpc/src/zookeeperutils.cc",
+  "file": "/home/zhao/tmpdir/mprpc/src/zookeeperutils.cc"
+},
+{
+  "directory": "/home/zhao/tmpdir/mprpc/build/example/callee",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/mprpc/src/include -I/home/zhao/tmpdir/mprpc/example  -g -g -o CMakeFiles/provider.dir/userservice.cc.o -c /home/zhao/tmpdir/mprpc/example/callee/userservice.cc",
+  "file": "/home/zhao/tmpdir/mprpc/example/callee/userservice.cc"
+},
+{
+  "directory": "/home/zhao/tmpdir/mprpc/build/example/callee",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/mprpc/src/include -I/home/zhao/tmpdir/mprpc/example  -g -g -o CMakeFiles/provider.dir/__/user.pb.cc.o -c /home/zhao/tmpdir/mprpc/example/user.pb.cc",
+  "file": "/home/zhao/tmpdir/mprpc/example/user.pb.cc"
+},
+{
+  "directory": "/home/zhao/tmpdir/mprpc/build/example/caller",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/mprpc/src/include -I/home/zhao/tmpdir/mprpc/example  -g -g -o CMakeFiles/consumer.dir/callusersevice.cc.o -c /home/zhao/tmpdir/mprpc/example/caller/callusersevice.cc",
+  "file": "/home/zhao/tmpdir/mprpc/example/caller/callusersevice.cc"
+},
+{
+  "directory": "/home/zhao/tmpdir/mprpc/build/example/caller",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/mprpc/src/include -I/home/zhao/tmpdir/mprpc/example  -g -g -o CMakeFiles/consumer.dir/__/user.pb.cc.o -c /home/zhao/tmpdir/mprpc/example/user.pb.cc",
+  "file": "/home/zhao/tmpdir/mprpc/example/user.pb.cc"
+}
+]
