@@ -1,0 +1,7 @@
+aux_source_directory(. SRC_LIST)
+aux_source_directory(./db DB_LIST)
+aux_source_directory(./model MODEL_LIST)
+aux_source_directory(./redis REDIS_LIST)
+# set(SRC_LIST chatserver.cpp main.cpp)
+add_executable(ChatServer ${SRC_LIST} ${DB_LIST} ${MODEL_LIST} ${REDIS_LIST} ../userserver/chat.pb.cc)
+target_link_libraries(ChatServer mprpc protobuf muduo_net muduo_base mysqlclient hiredis pthread zookeeper_mt)

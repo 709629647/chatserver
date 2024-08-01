@@ -1,0 +1,162 @@
+[
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/server",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/chatserver.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/server",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/chatservice.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/server",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/main.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/main.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/server",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/db/db.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/server",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/model/friendmodel.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/server",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/group.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/model/group.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/model/group.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/server",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/model/groupmodel.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/server",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/groupuser.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/model/groupuser.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/model/groupuser.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/server",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/offlinemessage.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/model/offlinemessage.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/model/offlinemessage.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/server",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/server",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/user.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/model/user.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/model/user.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/server",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/model/usermodel.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/server",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/redis/redis.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/server",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/__/userserver/chat.pb.cc.o -c /home/zhao/tmpdir/chatserver/src/userserver/chat.pb.cc",
+  "file": "/home/zhao/tmpdir/chatserver/src/userserver/chat.pb.cc"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/client",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/zhao/tmpdir/chatserver/src/client/main.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/client/main.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/client",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/ChatClient.dir/user.cpp.o -c /home/zhao/tmpdir/chatserver/src/client/user.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/client/user.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/client",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/ChatClient.dir/group.cpp.o -c /home/zhao/tmpdir/chatserver/src/client/group.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/client/group.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/client",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/ChatClient.dir/groupuser.cpp.o -c /home/zhao/tmpdir/chatserver/src/client/groupuser.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/client/groupuser.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/userserver",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/UserServer.dir/chat.pb.cc.o -c /home/zhao/tmpdir/chatserver/src/userserver/chat.pb.cc",
+  "file": "/home/zhao/tmpdir/chatserver/src/userserver/chat.pb.cc"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/userserver",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/UserServer.dir/main.cc.o -c /home/zhao/tmpdir/chatserver/src/userserver/main.cc",
+  "file": "/home/zhao/tmpdir/chatserver/src/userserver/main.cc"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/userserver",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/UserServer.dir/userserver.cc.o -c /home/zhao/tmpdir/chatserver/src/userserver/userserver.cc",
+  "file": "/home/zhao/tmpdir/chatserver/src/userserver/userserver.cc"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/userserver",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/UserServer.dir/userservice.cc.o -c /home/zhao/tmpdir/chatserver/src/userserver/userservice.cc",
+  "file": "/home/zhao/tmpdir/chatserver/src/userserver/userservice.cc"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/userserver",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/UserServer.dir/__/server/db/db.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/db/db.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/userserver",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/UserServer.dir/__/server/model/friendmodel.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/model/friendmodel.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/userserver",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/UserServer.dir/__/server/model/group.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/model/group.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/model/group.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/userserver",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/UserServer.dir/__/server/model/groupmodel.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/model/groupmodel.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/userserver",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/UserServer.dir/__/server/model/groupuser.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/model/groupuser.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/model/groupuser.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/userserver",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/UserServer.dir/__/server/model/offlinemessage.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/model/offlinemessage.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/model/offlinemessage.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/userserver",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/UserServer.dir/__/server/model/offlinemessagemodel.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/userserver",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/UserServer.dir/__/server/model/user.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/model/user.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/model/user.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/userserver",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/UserServer.dir/__/server/model/usermodel.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/model/usermodel.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/zhao/tmpdir/chatserver/build/src/userserver",
+  "command": "/usr/bin/g++-9  -I/home/zhao/tmpdir/chatserver/include -I/home/zhao/tmpdir/chatserver/include/server -I/home/zhao/tmpdir/chatserver/include/server/db -I/home/zhao/tmpdir/chatserver/include/server/model -I/home/zhao/tmpdir/chatserver/include/server/redis -I/home/zhao/tmpdir/chatserver/thirdparty -g -g -o CMakeFiles/UserServer.dir/__/server/redis/redis.cpp.o -c /home/zhao/tmpdir/chatserver/src/server/redis/redis.cpp",
+  "file": "/home/zhao/tmpdir/chatserver/src/server/redis/redis.cpp"
+}
+]

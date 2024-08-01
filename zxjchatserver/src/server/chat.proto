@@ -1,0 +1,50 @@
+syntax = "proto3";
+
+package user;
+option cc_generic_services = true;
+
+message AddFriendRequest
+{
+    uint32 userid = 1;
+    uint32 friendid = 2;
+}
+message AddFriendResponse
+{
+    int32 errcode = 1;
+    bytes errmsg = 2; 
+    bytes name = 3;
+    bytes state = 4;
+}
+message CreateGroupRequest
+{
+    bytes groupname = 1;
+    bytes groupdesc = 2;
+    uint32 userid = 3;
+}
+message CreateGroupResponse
+{
+    int32 groupid = 1;
+    uint32 errcode = 2;
+    bytes groupname = 3;
+    bytes groupdesc = 4;
+}
+message AddGroupRequest
+{
+    uint32 id = 1; 
+    int32 groupid = 2;
+    bytes role = 3;
+    
+}
+message AddGroupResponse
+{
+    uint32 errcode = 1;
+    int32 groupid = 2;
+    bytes groupname = 3;
+    bytes groupdesc = 4;
+}
+service UserServiceRpc
+{
+    rpc AddFriend(AddFriendRequest) returns(AddFriendResponse);
+    rpc CreateGroup(CreateGroupRequest) returns(CreateGroupResponse);
+    rpc AddGroup(AddGroupRequest) returns(AddGroupResponse);
+}
